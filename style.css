@@ -21,7 +21,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 60px;
+    gap: 20px;
   
     position: absolute;
     padding-inline: 100px;
