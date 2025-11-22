@@ -10,7 +10,7 @@
 body{
    
     background-color: rgb(8, 8, 8);
-    overflow-x: hidden;
+    
 }
 
 /* -----SANTOS------ */
@@ -20,7 +20,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 20px;
   
     position: absolute;
