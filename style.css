@@ -10,7 +10,6 @@
 body{
    
     background-color: rgb(8, 8, 8);
-    
 }
 
 /* -----SANTOS------ */
@@ -21,10 +20,8 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 20px;
-  
-    position: absolute;
-    padding-inline: 100px;
+    gap: 40px;
+
     
 
     
@@ -36,8 +33,8 @@ body{
     position: relative;
     width: 280px;
     height: 420px;
-      
-
+     
+    
 }
 
 .container:hover .flip{
