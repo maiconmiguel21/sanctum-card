@@ -27,7 +27,7 @@ body{
     gap: 60px;
   
     position: absolute;
-    padding-inline: 100px;
+    
     
 
     
@@ -89,4 +89,5 @@ body{
     flex-direction: column;
     gap: 60px;
 }
+
 
