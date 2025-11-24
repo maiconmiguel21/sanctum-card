@@ -10,6 +10,7 @@
 body{
    
     background-color: rgb(8, 8, 8);
+    
 }
 
 /* -----SANTOS------ */
@@ -22,8 +23,8 @@ body{
     flex-direction: column;
     gap: 40px;
 
-    
-
+    position: absolute;
+margin-left: 18%;
     
   
 }
